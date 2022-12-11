@@ -1,0 +1,21 @@
+{
+	"students": [{
+			"name": "Иван",
+			"group": "ИБМ7-50",
+			"average_mark": 4.5,
+			"image":"/static/ivan.png"
+		},
+		{
+			"name": "Анна",
+			"group": "ИБМ7-50",
+			"average_mark": 4.7,
+			"image":"/static/anna.png"
+		},
+		{
+			"name": "Сергей",
+			"group": "ИБМ7-50",
+			"average_mark": 4.2,
+			"image":"/static/serg.png"
+		}
+	]
+}
